@@ -21,4 +21,8 @@ The game is tested with Oculus Quest 2. Quest 2 controllers have partial [skelet
 
 ### Screenshots
 
+![S1](/cps643-project/docs/assets/images/s1.png)
 
+![S2](/cps643-project/docs/assets/images/s2.png)
+
+![S3](/cps643-project/docs/assets/images/s3.png)
