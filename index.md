@@ -1,6 +1,6 @@
 ## Jenga Virtual Reality Project
 
-![Snapshot](/cps643-project/docs/assets/images/snapshot.png)
+![Snapshot](/cps643-project/assets/images/snapshot.png)
 
 This project is a simulation of the [Jenga game](https://en.wikipedia.org/wiki/Jenga) in Virtual Reality environment.
 
